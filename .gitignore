@@ -1,0 +1,6 @@
+*.tsv
+*.h5
+.idea
+__pycache__
+resources/*
+!resources/data_practicephase_cleardev
